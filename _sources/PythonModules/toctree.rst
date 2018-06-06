@@ -10,4 +10,5 @@ Python Modules
    Theturtlemodule.rst
    Glossary.rst
    Exercises.rst
+   ExtraExercises.rst
    
