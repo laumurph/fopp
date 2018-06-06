@@ -9,4 +9,5 @@ Python Modules
    Therandommodule.rst
    Theturtlemodule.rst
    Glossary.rst
+   Exercises.rst
    
