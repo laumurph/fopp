@@ -8,4 +8,5 @@ Python Modules
    intro-ModulesandGettingHelp.rst
    Therandommodule.rst
    Theturtlemodule.rst
+   Glossary.rst
    
