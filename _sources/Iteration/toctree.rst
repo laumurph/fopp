@@ -16,5 +16,4 @@ Iteration
    GeneralizedSequences.rst
    Glossary.rst
    Exercises.rst
-   week2a2.rst
    
