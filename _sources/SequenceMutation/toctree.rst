@@ -18,11 +18,6 @@ Sequence Mutation
    WPAccumulatorPatternStrategies.rst
    Glossary.rst
    Exercises.rst
-   ExtraExercises.rst
-   week4a1.rst
-   week4a2.rst
-   week4a3.rst
-   week5a1.rst
-   week5a2.rst  
+   ExtraExercises.rst 
    assignmentcourseone.rst
    
