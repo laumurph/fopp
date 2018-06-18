@@ -15,6 +15,4 @@ Python Turtle
    WPIncrementalProgramming.rst
    WPCommonTurtleErrors.rst
    Exercises.rst
-   week1a3.rst
-   week1a4.rst
    
